@@ -71,13 +71,18 @@ endmodule
 
 **RTL Schematic**
 
+
+
+![Screenshot 2024-03-23 105007](https://github.com/SubhashriRavichandran10/HALF_ADDER_SUBTRACTOR/assets/145743413/fbfe4f98-adda-4872-9fde-1283d6ccf49b)
+
+
 **Output/TIMING Waveform**
 
 
-![Screenshot 2024-03-23 104939](https://github.com/SubhashriRavichandran10/HALF_ADDER_SUBTRACTOR/assets/145743413/eafcf435-bcf7-46af-b621-5d974c73b3bc)
+
+![Screenshot 2024-03-23 104939](https://github.com/SubhashriRavichandran10/HALF_ADDER_SUBTRACTOR/assets/145743413/9688ed37-28f7-4f60-b647-f4f93299d3f4)
 
 
-![Screenshot 2024-03-23 105007](https://github.com/SubhashriRavichandran10/HALF_ADDER_SUBTRACTOR/assets/145743413/bc2614ab-224d-431d-aa9e-0ea0fe3acc40)
 
 
 
