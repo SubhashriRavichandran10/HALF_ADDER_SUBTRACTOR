@@ -87,3 +87,9 @@ endmodule
 
 
 **Result:**
+
+
+Half Adder Subtractor circuit and its truth tablein Quartus using verilog programming is successfully verified
+
+
+
